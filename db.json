@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "GOOGLE PIXEL 4A (JUST BLACK, 6GB RAM, 128GB STORAGE)",
+      "image": "https://vlebazaar.in/image/cache/catalog//B08CFSZLQ4/Google-Pixel-4a-Just-Black-6GB-RAM-128GB-Storage-B08CFSZLQ4-1000x1000.jpg"
+    },
+    {
+      "title": "samsung galaxy s21 ultra 5g",
+      "image": "https://www.pakmobizone.pk/wp-content/uploads/2021/02/Samsung-Galaxy-S21-Ultra-5G-Phantom-Black-1.jpg",
+      "id": 3
+    },
+    {
+      "title": "Asus-rog",
+      "image": "https://phonesdata.com/files/models/Asus--ROG-Phone-ZS600KL-816.jpg",
+      "id": 4
+    },
+    {
+      "title": "Apple iPhone 13 128 GB, Midnight (Black)",
+      "image": "https://th.bing.com/th/id/OIP.zncqE4zvlVeKAV4xITERbgHaHa?pid=ImgDet&rs=1",
+      "id": 5
+    }
+  ]
+}
